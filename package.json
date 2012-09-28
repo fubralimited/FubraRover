@@ -1,0 +1,28 @@
+{
+  "name": "FubraRover",
+  "version": "0.0.0",
+  "description": "Teaching local Scouts basic programming by programming Arduino with NodeJS.",
+  "main": "launch.js",
+  "dependencies": {
+    "johnny-five": "~0.5.11",
+    "node-static": "~0.6.2",
+    "socket.io": "~0.9.10",
+    "socketstream": "0.3.x",
+    "ss-coffee": "0.1.x",
+    "ss-jade": "0.1.x",
+    "ss-stylus": "0.1.x",
+    "ss-hogan": "0.1.x"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fubralimited/FubraRover.git"
+  },
+  "keywords": [
+    "Arduino",
+    "Johnny-Five",
+    "Node-SerialPort"
+  ],
+  "author": "Ray Viljoen",
+  "license": "BSD"
+}
